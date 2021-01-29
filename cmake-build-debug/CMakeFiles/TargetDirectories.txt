@@ -1,0 +1,3 @@
+C:/Users/gul4s/Downloads/configurazioneGit/cmake-build-debug/CMakeFiles/configurazioneGit.dir
+C:/Users/gul4s/Downloads/configurazioneGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gul4s/Downloads/configurazioneGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
